@@ -1,0 +1,17 @@
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.deps.json
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.runtimeconfig.json
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\bin\Debug\net8.0\Movies.Infrastructure.pdb
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\bin\Debug\net8.0\Movies.Domain.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\bin\Debug\net8.0\Movies.Domain.pdb
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.AssemblyInfo.cs
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.I.73F6CEB0.Up2Date
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\refint\Movies.Infrastructure.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.pdb
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\Movies.Infrastructure.genruntimeconfig.cache
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Infrastructure\obj\Debug\net8.0\ref\Movies.Infrastructure.dll

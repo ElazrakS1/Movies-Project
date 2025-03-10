@@ -1,0 +1,11 @@
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\bin\Debug\net8.0\Movies.Domain.deps.json
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\bin\Debug\net8.0\Movies.Domain.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\bin\Debug\net8.0\Movies.Domain.pdb
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\Movies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\Movies.Domain.AssemblyInfoInputs.cache
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\Movies.Domain.AssemblyInfo.cs
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\Movies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\Movies.Domain.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\refint\Movies.Domain.dll
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\Movies.Domain.pdb
+C:\Users\Salah\RiderProjects\WebApplication1\Movies.Domain\obj\Debug\net8.0\ref\Movies.Domain.dll
