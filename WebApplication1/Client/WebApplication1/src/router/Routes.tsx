@@ -1,6 +1,7 @@
 ﻿import { RouteObject, createBrowserRouter } from "react-router-dom";
 import App from "../App.tsx";
 import MovieForm from "../components/movies/MovieForm.tsx";
+import MovieTable from "../components/movies/MovieTable.tsx";
 
 export const routes: RouteObject[] = [
     {
@@ -8,7 +9,9 @@ export const routes: RouteObject[] = [
         element: <App/>,
         children: [
             {path: 'createMovie', element: <MovieForm key='create' />},
-            {path: 'editMovie/:id', element: <MovieForm key='edit' />}
+            {path: 'editMovie/:id', element: <MovieForm key='edit' />},
+            {path: '*', element: <MovieTable />}
+            
         ]
     }
 ]

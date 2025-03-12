@@ -9,13 +9,15 @@ const apiConnector = {
     getMovies: async (paginationRequestParams: PaginationRequestParams): Promise<PaginationResult<MovieDto[]>> => {
         const response: AxiosResponse<PaginationResult<MovieDto[]>> =
             await axiosInstance.get(`/movies?pageSize=${paginationRequestParams.pageSize}&pageNumber=${paginationRequestParams.pageNumber}`);
-
-        if (response.data && Array.isArray(response.data.data)) {
-            const modifiedData = response.data.data.map(movie => ({
+console.log("response.data", response.data.movieDtos
+)
+console.log("response.data",  Array.isArray(response.data))
+        if (true) {
+            const modifiedData = response.data.movieDtos.map(movie => ({
                 ...movie,
                 createDate: movie.createDate?.slice(0, 10) ?? ""
             }));
-
+console.log("modifiedData", modifiedData)
             return {
                 ...response.data,
                 data: modifiedData
